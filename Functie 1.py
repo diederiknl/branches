@@ -1,0 +1,1 @@
+echo("Dit is functie 1")
